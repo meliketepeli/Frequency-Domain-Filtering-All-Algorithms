@@ -83,10 +83,3 @@ imshow(uint8(abs(fftshift(fast))));
 
 
 Çalıştırıldığında görüntünün Fourier spektrumu ekranda gösterilir.
-
-## 🖼️ Örnek Çıktılar
-| Algoritma            | Çıktı Örneği                      |
-| -------------------- | --------------------------------- |
-| **FFT Spektrumu**    | ![FFT](docs/fft_example.png)      |
-| **High-Pass Filter** | ![HPF](docs/highpass_example.png) |
-| **Low-Pass Filter**  | ![LPF](docs/lowpass_example.png)  |
